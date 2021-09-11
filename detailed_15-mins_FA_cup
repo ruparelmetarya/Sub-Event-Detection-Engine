@@ -1,0 +1,123 @@
+
+Window Starts GMT Time: 05-05-2012 16:16 
+
+total tweets in window: 1047
+X.shape: (379, 35)
+Xclean.shape: (95, 35)
+sorted wdfVoc*boost_entity:
+[(58.0, u'graham norton'), (54.0, u'last night'), (41.0, u'drogba last night'), (41.0, u'drogba last'), (38.0, u'vs liverpool'), (38.0, u'pick one chelsea'), (38.0, u'pick one'), (38.0, u'one chelsea vs'), (38.0, u'one chelsea'), (38.0, u'chelsea vs liverpool'), (38.0, u'chelsea vs'), (29.0, u'norton inside'), (29.0, u'graham norton inside'), (26.0, u'inside drogba'), (25.0, u'inside drogba last'), (23.0, u'didier drogba'), (21.0, u'seemed inside'), (21.0, u'norton seemed inside'), (21.0, u'norton seemed'), (21.0, u'graham norton seemed'), (17.0, u'inside didier drogba'), (17.0, u'inside didier'), (17.0, u'didier drogba last'), (16.0, u'#facupfinal graham norton'), (16.0, u'#facupfinal graham'), (13.0, u'inside last night'), (13.0, u'inside last'), (12.0, u'norton inside drogba'), (11.0, u'norton inside didier'), (11.0, u'#facup graham norton'), (11.0, u'#facup graham'), (10.0, u'#facupfinal chelsea'), (2.0, u'fa cup'), (1.0, u'national anthem'), (1.0, u'chelsea liverpool')]
+fastcluster, average, cosine
+hclust cut threshold: 0.5
+n_clusters: 29
+Counter({1: 28, 2: 9, 15: 8, 3: 6, 25: 6, 8: 3, 11: 3, 20: 3, 26: 3, 5: 2, 14: 2, 18: 2, 23: 2, 24: 2, 27: 2, 4: 1, 6: 1, 7: 1, 9: 1, 10: 1, 12: 1, 13: 1, 16: 1, 17: 1, 19: 1, 21: 1, 22: 1, 28: 1, 29: 1})
+sorted cluster_score:
+[(1.3571428571428572, 1), (0, 2)]
+H.shape: (2, 13)
+hclust cut threshold: 1.0
+n_clusters: 2
+Counter({1: 1, 2: 1})
+sorted hcluster_score:
+[(1.3571428571428572, 1), (0, 2)]
+
+
+Chelsea Jasintha kalau Chelsea menang kita kencan yuk Pick one Chelsea VS Liverpool//
+
+Window Starts GMT Time: 05-05-2012 16:41 
+
+total tweets in window: 443
+X.shape: (290, 25)
+Xclean.shape: (19, 25)
+sorted wdfVoc*boost_entity:
+[(20.0, u'run kalou box'), (20.0, u'run kalou'), (20.0, u'mazy run kalou'), (20.0, u'mazy run'), (20.0, u'liverpool defence'), (20.0, u'kalou box gets'), (20.0, u'kalou box'), (20.0, u'great mazy run'), (20.0, u'great mazy'), (20.0, u'gets ambushed liverpool'), (20.0, u'gets ambushed'), (20.0, u'box gets ambushed'), (20.0, u'box gets'), (20.0, u'ambushed liverpool defence'), (20.0, u'ambushed liverpool'), (18.0, u'shoot sl'), (18.0, u'liverpool defence shoot'), (18.0, u'defence shoot sl'), (18.0, u'defence shoot'), (18.0, u'#facupfinal #cfcwembley great'), (18.0, u'#facupfinal #cfcwembley'), (18.0, u'#cfcwembley great mazy'), (18.0, u'#cfcwembley great'), (1.0, u'chelsea liverpool'), (1.0, u'#cfc #lfc')]
+fastcluster, average, cosine
+hclust cut threshold: 0.5
+n_clusters: 2
+Counter({2: 17, 1: 2})
+sorted cluster_score:
+[(1.1764705882352942, 2), (0, 1)]
+H.shape: (2, 11)
+hclust cut threshold: 1.0
+n_clusters: 2
+Counter({1: 1, 2: 1})
+sorted hcluster_score:
+[(1.1764705882352942, 1), (0, 2)]
+
+Great mazy run Kalou box gets ambushed Liverpool defence shoot SL//
+
+Great mazy run Kalou box gets ambushed Liverpool defence//
+
+Window Starts GMT Time: 05-05-2012 17:01 
+
+total tweets in window: 924
+X.shape: (556, 72)
+Xclean.shape: (130, 72)
+sorted wdfVoc*boost_entity:
+[(76.0, u'#facupfinal think'), (52.0, u'think chelsea see'), (52.0, u'think chelsea'), (52.0, u'see win'), (52.0, u'chelsea see win'), (52.0, u'chelsea see'), (52.0, u'#facupfinal think chelsea'), (34.0, u'time chelsea'), (25.0, u'think liverpool come'), (25.0, u'think liverpool'), (25.0, u'liverpool come back'), (25.0, u'liverpool come'), (25.0, u'half time'), (25.0, u'come back win'), (25.0, u'come back'), (25.0, u'back win'), (25.0, u'#facupfinal think liverpool'), (22.0, u'yellow fouling mikel'), (22.0, u'yellow fouling'), (22.0, u'time chelsea sl'), (22.0, u'stoppage time chelsea'), (22.0, u'stoppage time'), (22.0, u'min stoppage time'), (22.0, u'min stoppage'), (22.0, u'mikel min stoppage'), (22.0, u'mikel min'), (22.0, u'gets yellow fouling'), (22.0, u'gets yellow'), (22.0, u'fouling mikel min'), (22.0, u'fouling mikel'), (22.0, u'chelsea sl'), (22.0, u'agger gets yellow'), (22.0, u'agger gets'), (22.0, u'#facupfinal #cfcwembley agger'), (22.0, u'#cfcwembley agger gets'), (22.0, u'#cfcwembley agger'), (16.0, u'chelsea liverpool'), (13.0, u'wembley go courtesy'), (13.0, u'wembley go'), (13.0, u'time wembley go'), (13.0, u'time wembley'), (13.0, u'strike mins sl'), (13.0, u'strike mins'), (13.0, u'ramires strike mins'), (13.0, u'ramires strike'), (13.0, u'mins sl'), (13.0, u'half time wembley'), (13.0, u'half time chelsea'), (13.0, u'go courtesy ramires'), (13.0, u'go courtesy'), (13.0, u'courtesy ramires strike'), (13.0, u'courtesy ramires'), (13.0, u'#cfcwembley half time'), (13.0, u'#cfcwembley half'), (12.0, u'#facupfinal #cfcwembley half'), (11.0, u'ht chelsea liverpool'), (11.0, u'ht chelsea'), (11.0, u'#facupfinal half time'), (11.0, u'#facupfinal half'), (10.457381898042007, u'#facupfinal #cfcwembley'), (9.0, u'#facupfinal ht chelsea'), (9.0, u'#facupfinal ht'), (5.0, u'liverpool ramires'), (3.0, u'#facup ht'), (2.0, u'cup final'), (2.0, u'#cfc #lfc'), (1.0, u'st half'), (1.0, u'second half'), (1.0, u'nd half'), (1.0, u'first half'), (1.0, u'#facupfinal liverpool'), (1.0, u'#facupfinal #lfc')]
+fastcluster, average, cosine
+hclust cut threshold: 0.5
+n_clusters: 10
+Counter({1: 51, 3: 24, 2: 21, 4: 12, 7: 9, 6: 8, 5: 2, 8: 1, 9: 1, 10: 1})
+sorted cluster_score:
+[(3.1666666666666665, 3), (2.0833333333333335, 4), (1.6190476190476191, 2), (1.4901960784313726, 1), (0, 7)]
+H.shape: (5, 26)
+hclust cut threshold: 1.0
+n_clusters: 4
+Counter({1: 2, 2: 1, 3: 1, 4: 1})
+sorted hcluster_score:
+[(3.1666666666666665, 1), (2.0833333333333335, 2), (1.6190476190476191, 4), (0, 3)]
+
+think Liverpool come back win//think Chelsea see win//
+
+Half time Wembley go courtesy Ramires strike mins SL//
+
+Agger gets yellow fouling Mikel min stoppage time Chelsea SL//
+
+half time Chelsea take lead break//
+
+Window Starts GMT Time: 05-05-2012 17:18 
+
+total tweets in window: 1138
+X.shape: (438, 25)
+Xclean.shape: (59, 25)
+sorted wdfVoc*boost_entity:
+[(36.0, u'nd half kicked'), (36.0, u'nd half'), (36.0, u'kicked sl'), (36.0, u'half kicked sl'), (36.0, u'half kicked'), (36.0, u'#facupfinal #cfcwembley nd'), (36.0, u'#cfcwembley nd half'), (36.0, u'#cfcwembley nd'), (9.2982900156875683, u'#facupfinal #cfcwembley'), (6.4261210896512111, u'think chelsea see'), (6.4261210896512111, u'think chelsea'), (6.4261210896512111, u'see win'), (6.4261210896512111, u'chelsea see win'), (6.4261210896512111, u'chelsea see'), (6.4261210896512111, u'#facupfinal think chelsea'), (5.8711679683091953, u'#facupfinal think'), (1.0, u'second half'), (1.0, u'luis suarez'), (1.0, u'goal drogba'), (1.0, u'final de'), (1.0, u'drogba chelsea'), (1.0, u'de drogba'), (0.77658920737785342, u'fa cup'), (0.35819704778381511, u'chelsea liverpool'), (0.32048575012923963, u'didier drogba')]
+fastcluster, average, cosine
+hclust cut threshold: 0.5
+n_clusters: 2
+Counter({1: 35, 2: 24})
+sorted cluster_score:
+[(1.0285714285714285, 1), (0.2677550454021338, 2)]
+H.shape: (2, 8)
+hclust cut threshold: 1.0
+n_clusters: 2
+Counter({1: 1, 2: 1})
+sorted hcluster_score:
+[(1.0285714285714285, 1), (0.2677550454021338, 2)]
+
+nd half kicked SL//
+
+think Chelsea see win//
+
+Window Starts GMT Time: 05-05-2012 17:36 
+
+total tweets in window: 1531
+X.shape: (657, 66)
+Xclean.shape: (46, 66)
+sorted wdfVoc*boost_entity:
+[(34.0, u'record historico didier'), (34.0, u'record historico'), (34.0, u'que marca en'), (34.0, u'que marca'), (34.0, u'primer jugador en'), (34.0, u'primer jugador'), (34.0, u'marca en cuatro'), (34.0, u'marca en'), (34.0, u'la que marca'), (34.0, u'la que'), (34.0, u'la historia de'), (34.0, u'la historia'), (34.0, u'jugador en la'), (34.0, u'jugador en'), (34.0, u'historico didier drogba'), (34.0, u'historico didier'), (34.0, u'historia de la'), (34.0, u'historia de'), (34.0, u'es el primer'), (34.0, u'es el'), (34.0, u'en la historia'), (34.0, u'en la'), (34.0, u'en cuatro finales'), (34.0, u'en cuatro'), (34.0, u'el primer jugador'), (34.0, u'el primer'), (34.0, u'drogba es el'), (34.0, u'drogba es'), (34.0, u'didier drogba es'), (34.0, u'didier drogba'), (34.0, u'de la que'), (34.0, u'de la'), (34.0, u'cuatro finales'), (34.0, u'#facup record historico'), (34.0, u'#facup record'), (14.0, u'wrong job'), (14.0, u'taken pitch replaced'), (14.0, u'taken pitch'), (14.0, u'replaced andy carroll'), (14.0, u'replaced andy'), (14.0, u'pitch replaced andy'), (14.0, u'pitch replaced'), (14.0, u'know wrong job'), (14.0, u'know wrong'), (14.0, u'carroll know wrong'), (14.0, u'carroll know'), (14.0, u'andy carroll know'), (14.0, u'andy carroll'), (13.0, u'#facupfinal taken pitch'), (13.0, u'#facupfinal taken'), (1.0, u'luis suarez'), (1.0, u'liverpool chelsea'), (1.0, u'john terry'), (1.0, u'gol de'), (1.0, u'goal carroll'), (1.0, u'el liverpool'), (1.0, u'del liverpool'), (1.0, u'chelsea liverpool'), (1.0, u'carroll scores'), (1.0, u'andy carrol'), (1.0, u'#facupfinal andy carroll'), (1.0, u'#facupfinal andy'), (1.0, u'#facupfinal #lfc'), (1.0, u'#facupfinal #cfcwembley'), (1.0, u'#facup gol'), (1.0, u'#cfc #lfc')]
+fastcluster, average, cosine
+hclust cut threshold: 0.5
+n_clusters: 2
+Counter({1: 33, 2: 13})
+sorted cluster_score:
+[(1.0769230769230769, 2), (1.0303030303030303, 1)]
+H.shape: (2, 24)
+hclust cut threshold: 1.0
+n_clusters: 2
+Counter({1: 1, 2: 1})
+sorted hcluster_score:
+[(1.0769230769230769, 1), (1.0303030303030303, 2)]
+
+taken pitch replaced Andy Carroll know wrong job//
+
+RECORD HISTORICO Didier Drogba es el PRIMER JUGADOR en la historia de la que marca en CUATRO finales//

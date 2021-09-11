@@ -1,0 +1,35 @@
+
+Window Starts GMT Time: 05-05-2012 16:16 
+
+total tweets in window: 2416
+X.shape: (1225, 190)
+Xclean.shape: (293, 190)
+sorted wdfVoc*boost_entity:
+[(76.0, u'#facupfinal think'), (59.0, u'graham norton'), (55.0, u'last night'), (53.0, u'#facupfinal #cfcwembley'), (52.0, u'think chelsea see'), (52.0, u'think chelsea'), (52.0, u'see win'), (52.0, u'chelsea see win'), (52.0, u'chelsea see'), (52.0, u'#facupfinal think chelsea'), (42.0, u'vs liverpool'), (42.0, u'chelsea vs liverpool'), (42.0, u'chelsea vs'), (41.0, u'drogba last night'), (41.0, u'drogba last'), (39.0, u'pick one chelsea'), (39.0, u'pick one'), (39.0, u'one chelsea vs'), (39.0, u'one chelsea'), (34.0, u'time chelsea'), (30.0, u'norton inside'), (30.0, u'graham norton inside'), (26.0, u'inside drogba'), (25.0, u'think liverpool come'), (25.0, u'think liverpool'), (25.0, u'liverpool come back'), (25.0, u'liverpool come'), (25.0, u'inside drogba last'), (25.0, u'half time'), (25.0, u'come back win'), (25.0, u'come back'), (25.0, u'back win'), (25.0, u'#facupfinal think liverpool'), (23.0, u'didier drogba'), (22.0, u'yellow fouling mikel'), (22.0, u'yellow fouling'), (22.0, u'time chelsea sl'), (22.0, u'stoppage time chelsea'), (22.0, u'stoppage time'), (22.0, u'min stoppage time'), (22.0, u'min stoppage'), (22.0, u'mikel min stoppage'), (22.0, u'mikel min'), (22.0, u'gets yellow fouling'), (22.0, u'gets yellow'), (22.0, u'fouling mikel min'), (22.0, u'fouling mikel'), (22.0, u'chelsea sl'), (22.0, u'agger gets yellow'), (22.0, u'agger gets'), (22.0, u'#facupfinal #cfcwembley agger'), (22.0, u'#cfcwembley agger gets'), (22.0, u'#cfcwembley agger'), (21.0, u'seemed inside'), (21.0, u'run kalou box'), (21.0, u'run kalou'), (21.0, u'norton seemed inside'), (21.0, u'norton seemed'), (21.0, u'mazy run kalou'), (21.0, u'mazy run'), (21.0, u'liverpool defence'), (21.0, u'kalou box gets'), (21.0, u'kalou box'), (21.0, u'great mazy run'), (21.0, u'great mazy'), (21.0, u'graham norton seemed'), (21.0, u'gets ambushed liverpool'), (21.0, u'gets ambushed'), (21.0, u'chelsea liverpool'), (21.0, u'box gets ambushed'), (21.0, u'box gets'), (21.0, u'ambushed liverpool defence'), (21.0, u'ambushed liverpool'), (19.0, u'shoot sl'), (19.0, u'liverpool defence shoot'), (19.0, u'defence shoot sl'), (19.0, u'defence shoot'), (19.0, u'#facupfinal #cfcwembley great'), (19.0, u'#cfcwembley great mazy'), (19.0, u'#cfcwembley great'), (17.0, u'inside didier drogba'), (17.0, u'inside didier'), (17.0, u'didier drogba last'), (16.0, u'#facupfinal graham norton'), (16.0, u'#facupfinal graham'), (14.0, u'inside last night'), (14.0, u'inside last'), (13.0, u'wembley go courtesy'), (13.0, u'wembley go'), (13.0, u'time wembley go'), (13.0, u'time wembley'), (13.0, u'strike mins sl'), (13.0, u'strike mins'), (13.0, u'ramires strike mins'), (13.0, u'ramires strike'), (13.0, u'mins sl'), (13.0, u'ht chelsea'), (13.0, u'half time wembley'), (13.0, u'half time chelsea'), (13.0, u'go courtesy ramires'), (13.0, u'go courtesy'), (13.0, u'final de la'), (13.0, u'final de'), (13.0, u'de la'), (13.0, u'courtesy ramires strike'), (13.0, u'courtesy ramires'), (13.0, u'#facupfinal great'), (13.0, u'#cfcwembley half time'), (13.0, u'#cfcwembley half'), (12.0, u'tunnel kick'), (12.0, u'terry luis suarez'), (12.0, u'terry luis'), (12.0, u'suarez sharing banter'), (12.0, u'suarez sharing'), (12.0, u'sharing banter tunnel'), (12.0, u'sharing banter'), (12.0, u'norton inside drogba'), (12.0, u'luis suarez sharing'), (12.0, u'luis suarez'), (12.0, u'john terry luis'), (12.0, u'john terry'), (12.0, u'banter tunnel kick'), (12.0, u'banter tunnel'), (12.0, u'#facupfinal john terry'), (12.0, u'#facupfinal john'), (12.0, u'#facupfinal #cfcwembley half'), (11.0, u'trending better something'), (11.0, u'trending better'), (11.0, u'something one direction'), (11.0, u'something one'), (11.0, u'see trending better'), (11.0, u'see trending'), (11.0, u'salomon kalou look'), (11.0, u'salomon kalou'), (11.0, u'one direction lady'), (11.0, u'one direction'), (11.0, u'norton inside didier'), (11.0, u'messi brilliant'), (11.0, u'making salomon kalou'), (11.0, u'making salomon'), (11.0, u'look messi brilliant'), (11.0, u'look messi'), (11.0, u'liverpool making salomon'), (11.0, u'liverpool making'), (11.0, u'lady gaga eh'), (11.0, u'lady gaga'), (11.0, u'kalou look messi'), (11.0, u'kalou look'), (11.0, u'ht chelsea liverpool'), (11.0, u'great see trending'), (11.0, u'great see'), (11.0, u'gaga eh'), (11.0, u'direction lady gaga'), (11.0, u'direction lady'), (11.0, u'better something one'), (11.0, u'better something'), (11.0, u'#facupfinal pick'), (11.0, u'#facupfinal half time'), (11.0, u'#facupfinal half'), (11.0, u'#facupfinal great see'), (11.0, u'#facupfinal chelsea'), (11.0, u'#facup graham norton'), (11.0, u'#facup graham'), (10.0, u'la final de'), (10.0, u'la final'), (10.0, u'#facupfinal ht chelsea'), (10.0, u'#facupfinal ht'), (6.0, u'liverpool ramires'), (6.0, u'#facupfinal liverpool'), (5.0, u'fa cup'), (4.0, u'de ramires'), (3.0, u'#facup ht'), (3.0, u'#facup chelsea'), (2.0, u'st half'), (2.0, u'fa cup final'), (2.0, u'cup final'), (2.0, u'#cfc #lfc'), (1.0, u'yellow card'), (1.0, u'second half'), (1.0, u'nd half'), (1.0, u'national anthem'), (1.0, u'liverpool chelsea'), (1.0, u'first half'), (1.0, u'come liverpool'), (1.0, u'#ynwa #lfc'), (1.0, u'#liverpool #facup'), (1.0, u'#facupfinal #lfc'), (1.0, u'#facup liverpool'), (1.0, u'#facup #lfc'), (1.0, u'#cfc chelsea')]
+fastcluster, average, cosine
+hclust cut threshold: 0.5
+n_clusters: 56
+Counter({1: 51, 6: 24, 7: 21, 9: 18, 4: 14, 36: 12, 37: 11, 5: 10, 38: 10, 39: 10, 3: 9, 40: 9, 19: 8, 55: 7, 10: 6, 33: 6, 2: 5, 25: 4, 47: 4, 15: 3, 22: 3, 32: 3, 34: 3, 8: 2, 12: 2, 18: 2, 28: 2, 30: 2, 31: 2, 45: 2, 46: 2, 54: 2, 11: 1, 13: 1, 14: 1, 16: 1, 17: 1, 20: 1, 21: 1, 23: 1, 24: 1, 26: 1, 27: 1, 29: 1, 35: 1, 41: 1, 42: 1, 43: 1, 44: 1, 48: 1, 49: 1, 50: 1, 51: 1, 52: 1, 53: 1, 56: 1})
+sorted cluster_score:
+[(4.416666666666667, 36), (4.2000000000000002, 5), (3.1666666666666665, 6), (3.0, 4), (2.9444444444444446, 9), (2.5238095238095237, 7), (1.4901960784313726, 1), (1.3, 38), (1.1000000000000001, 39), (1.0909090909090908, 37), (0, 3)]
+H.shape: (11, 62)
+hclust cut threshold: 1.0
+n_clusters: 8
+Counter({1: 3, 6: 2, 2: 1, 3: 1, 4: 1, 5: 1, 7: 1, 8: 1})
+sorted hcluster_score:
+[(4.416666666666667, 4), (4.2000000000000002, 1), (3.1666666666666665, 6), (2.9444444444444446, 2), (2.5238095238095237, 5), (1.3, 7), (1.1000000000000001, 3), (1.0909090909090908, 8)]
+
+Half time Wembley go courtesy Ramires strike mins SL//
+
+
+think Liverpool come back win//think Chelsea see win//
+
+Great mazy run Kalou box gets ambushed Liverpool defence shoot SL//
+
+Agger gets yellow fouling Mikel min stoppage time Chelsea SL//
+
+Great see trending Better something One Direction Lady Gaga eh//
+
+Liverpool making Salomon Kalou look Messi brilliant//
+
+John Terry Luis Suarez sharing banter tunnel kick//

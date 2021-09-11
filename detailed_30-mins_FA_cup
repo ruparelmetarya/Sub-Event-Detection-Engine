@@ -1,0 +1,84 @@
+
+Window Starts GMT Time: 05-05-2012 16:16 
+
+total tweets in window: 1275
+X.shape: (522, 63)
+Xclean.shape: (115, 63)
+sorted wdfVoc*boost_entity:
+[(58.0, u'graham norton'), (54.0, u'last night'), (41.0, u'drogba last night'), (41.0, u'drogba last'), (39.0, u'vs liverpool'), (39.0, u'pick one chelsea'), (39.0, u'pick one'), (39.0, u'one chelsea vs'), (39.0, u'one chelsea'), (39.0, u'chelsea vs liverpool'), (39.0, u'chelsea vs'), (29.0, u'norton inside'), (29.0, u'graham norton inside'), (26.0, u'inside drogba'), (25.0, u'inside drogba last'), (23.0, u'didier drogba'), (21.0, u'seemed inside'), (21.0, u'norton seemed inside'), (21.0, u'norton seemed'), (21.0, u'graham norton seemed'), (20.0, u'run kalou box'), (20.0, u'run kalou'), (20.0, u'mazy run kalou'), (20.0, u'mazy run'), (20.0, u'liverpool defence'), (20.0, u'kalou box gets'), (20.0, u'kalou box'), (20.0, u'great mazy run'), (20.0, u'great mazy'), (20.0, u'gets ambushed liverpool'), (20.0, u'gets ambushed'), (20.0, u'box gets ambushed'), (20.0, u'box gets'), (20.0, u'ambushed liverpool defence'), (20.0, u'ambushed liverpool'), (18.0, u'shoot sl'), (18.0, u'liverpool defence shoot'), (18.0, u'defence shoot sl'), (18.0, u'defence shoot'), (18.0, u'#facupfinal #cfcwembley great'), (18.0, u'#facupfinal #cfcwembley'), (18.0, u'#cfcwembley great mazy'), (18.0, u'#cfcwembley great'), (17.0, u'inside didier drogba'), (17.0, u'inside didier'), (17.0, u'didier drogba last'), (16.0, u'#facupfinal graham norton'), (16.0, u'#facupfinal graham'), (13.0, u'inside last night'), (13.0, u'inside last'), (12.0, u'norton inside drogba'), (11.0, u'norton inside didier'), (11.0, u'#facupfinal pick'), (11.0, u'#facup graham norton'), (11.0, u'#facup graham'), (10.0, u'#facupfinal chelsea'), (6.0, u'#facupfinal liverpool'), (3.0, u'#facupfinal great'), (2.0, u'fa cup'), (1.0, u'national anthem'), (1.0, u'chelsea liverpool'), (1.0, u'#facupfinal #lfc'), (1.0, u'#cfc #lfc')]
+fastcluster, average, cosine
+hclust cut threshold: 0.5
+n_clusters: 32
+Counter({6: 17, 4: 14, 3: 10, 2: 9, 15: 8, 7: 6, 30: 6, 1: 5, 12: 3, 19: 3, 24: 3, 29: 3, 31: 3, 5: 2, 9: 2, 16: 2, 22: 2, 27: 2, 28: 2, 8: 1, 10: 1, 11: 1, 13: 1, 14: 1, 17: 1, 18: 1, 20: 1, 21: 1, 23: 1, 25: 1, 26: 1, 32: 1})
+sorted cluster_score:
+[(3.8999999999999999, 3), (2.7857142857142856, 4), (1.1764705882352942, 6), (0, 2)]
+H.shape: (4, 23)
+hclust cut threshold: 1.0
+n_clusters: 2
+Counter({1: 3, 2: 1})
+sorted hcluster_score:
+[(3.8999999999999999, 1), (1.1764705882352942, 2)]
+
+
+Great mazy run Kalou box gets ambushed Liverpool defence shoot SL//
+
+Window Starts GMT Time: 05-05-2012 16:53 
+
+total tweets in window: 1426
+X.shape: (915, 101)
+Xclean.shape: (198, 101)
+sorted wdfVoc*boost_entity:
+[(96.0, u'#facupfinal think'), (71.0, u'think chelsea see'), (71.0, u'think chelsea'), (71.0, u'see win'), (71.0, u'chelsea see win'), (71.0, u'chelsea see'), (71.0, u'#facupfinal think chelsea'), (36.0, u'time chelsea'), (32.0, u'nd half kicked'), (32.0, u'nd half'), (32.0, u'kicked sl'), (32.0, u'half kicked sl'), (32.0, u'half kicked'), (32.0, u'#facupfinal #cfcwembley nd'), (32.0, u'#cfcwembley nd half'), (32.0, u'#cfcwembley nd'), (27.0, u'think liverpool'), (26.0, u'think liverpool come'), (26.0, u'liverpool come back'), (26.0, u'liverpool come'), (26.0, u'half time'), (26.0, u'come back win'), (26.0, u'come back'), (26.0, u'back win'), (26.0, u'#facupfinal think liverpool'), (23.0, u'yellow fouling mikel'), (23.0, u'yellow fouling'), (23.0, u'time chelsea sl'), (23.0, u'stoppage time chelsea'), (23.0, u'stoppage time'), (23.0, u'min stoppage time'), (23.0, u'min stoppage'), (23.0, u'mikel min stoppage'), (23.0, u'mikel min'), (23.0, u'gets yellow fouling'), (23.0, u'gets yellow'), (23.0, u'fouling mikel min'), (23.0, u'fouling mikel'), (23.0, u'chelsea sl'), (23.0, u'agger gets yellow'), (23.0, u'agger gets'), (23.0, u'#facupfinal #cfcwembley agger'), (23.0, u'#cfcwembley agger gets'), (23.0, u'#cfcwembley agger'), (17.0, u'chelsea liverpool'), (16.9649596766792, u'#facupfinal #cfcwembley'), (15.0, u'tunnel kick'), (15.0, u'terry luis suarez'), (15.0, u'terry luis'), (15.0, u'suarez sharing banter'), (15.0, u'suarez sharing'), (15.0, u'sharing banter tunnel'), (15.0, u'sharing banter'), (15.0, u'luis suarez sharing'), (15.0, u'luis suarez'), (15.0, u'john terry luis'), (15.0, u'john terry'), (15.0, u'banter tunnel kick'), (15.0, u'banter tunnel'), (15.0, u'#facupfinal john terry'), (15.0, u'#facupfinal john'), (14.0, u'half time chelsea'), (14.0, u'courtesy ramires'), (13.0, u'wembley go courtesy'), (13.0, u'wembley go'), (13.0, u'time wembley go'), (13.0, u'time wembley'), (13.0, u'strike mins sl'), (13.0, u'strike mins'), (13.0, u'ramires strike mins'), (13.0, u'ramires strike'), (13.0, u'mins sl'), (13.0, u'half time wembley'), (13.0, u'go courtesy ramires'), (13.0, u'go courtesy'), (13.0, u'courtesy ramires strike'), (13.0, u'#cfcwembley half time'), (13.0, u'#cfcwembley half'), (12.0, u'ht chelsea liverpool'), (12.0, u'ht chelsea'), (12.0, u'#facupfinal #cfcwembley half'), (11.0, u'#facupfinal half time'), (11.0, u'#facupfinal half'), (10.0, u'#facupfinal ht chelsea'), (10.0, u'#facupfinal ht'), (5.0, u'liverpool ramires'), (3.0, u'#facup ht'), (2.0, u'second half'), (2.0, u'cup final'), (2.0, u'#cfc #lfc'), (1.1812322182992825, u'fa cup'), (1.0, u'yellow card'), (1.0, u'st half'), (1.0, u'half chelsea'), (1.0, u'first half'), (1.0, u'final de'), (1.0, u'de la'), (1.0, u'#ynwa #lfc'), (1.0, u'#facupfinal #lfc'), (1.0, u'#facup liverpool'), (0.35819704778381511, u'#facupfinal liverpool')]
+fastcluster, average, cosine
+hclust cut threshold: 0.5
+n_clusters: 14
+Counter({1: 70, 2: 31, 4: 25, 3: 22, 5: 14, 6: 12, 10: 9, 8: 8, 7: 2, 9: 1, 11: 1, 12: 1, 13: 1, 14: 1})
+sorted cluster_score:
+[(3.8399999999999999, 4), (2.1666666666666665, 6), (1.6363636363636365, 3), (1.3714285714285714, 1), (1.0714285714285714, 5), (1.032258064516129, 2), (0, 10)]
+H.shape: (7, 36)
+hclust cut threshold: 1.0
+n_clusters: 5
+Counter({1: 2, 2: 2, 3: 1, 4: 1, 5: 1})
+sorted hcluster_score:
+[(3.8399999999999999, 1), (2.1666666666666665, 2), (1.6363636363636365, 3), (1.0714285714285714, 5), (0, 4)]
+
+think Liverpool come back win//think Chelsea see win//
+
+Half time Wembley go courtesy Ramires strike mins SL//nd half kicked SL//
+
+Agger gets yellow fouling Mikel min stoppage time Chelsea SL//
+
+John Terry Luis Suarez sharing banter tunnel kick//
+
+half time Chelsea take lead break//
+
+Window Starts GMT Time: 05-05-2012 17:24 
+
+total tweets in window: 2384
+X.shape: (883, 115)
+Xclean.shape: (86, 115)
+sorted wdfVoc*boost_entity:
+[(39.0, u'de la'), (36.0, u'en la'), (34.0, u'record historico didier'), (34.0, u'record historico'), (34.0, u'que marca en'), (34.0, u'que marca'), (34.0, u'primer jugador en'), (34.0, u'primer jugador'), (34.0, u'marca en cuatro'), (34.0, u'marca en'), (34.0, u'la que marca'), (34.0, u'la que'), (34.0, u'la historia de'), (34.0, u'la historia'), (34.0, u'jugador en la'), (34.0, u'jugador en'), (34.0, u'historico didier drogba'), (34.0, u'historico didier'), (34.0, u'historia de la'), (34.0, u'historia de'), (34.0, u'es el primer'), (34.0, u'es el'), (34.0, u'en la historia'), (34.0, u'en cuatro finales'), (34.0, u'en cuatro'), (34.0, u'el primer jugador'), (34.0, u'el primer'), (34.0, u'drogba es el'), (34.0, u'drogba es'), (34.0, u'didier drogba es'), (34.0, u'de la que'), (34.0, u'cuatro finales'), (34.0, u'#facup record historico'), (34.0, u'#facup record'), (14.0, u'wrong job'), (14.0, u'taken pitch replaced'), (14.0, u'taken pitch'), (14.0, u'replaced andy carroll'), (14.0, u'replaced andy'), (14.0, u'pitch replaced andy'), (14.0, u'pitch replaced'), (14.0, u'know wrong job'), (14.0, u'know wrong'), (14.0, u'carroll know wrong'), (14.0, u'carroll know'), (14.0, u'andy carroll know'), (14.0, u'andy carroll'), (13.0, u'#facupfinal taken pitch'), (13.0, u'#facupfinal taken'), (11.0, u'waves play sl'), (11.0, u'waves play'), (11.0, u'stevie goes box'), (11.0, u'stevie goes'), (11.0, u'ref dowd waves'), (11.0, u'ref dowd'), (11.0, u'play sl'), (11.0, u'ivanovic ref dowd'), (11.0, u'ivanovic ref'), (11.0, u'goes box falling'), (11.0, u'goes box'), (11.0, u'falling ivanovic ref'), (11.0, u'falling ivanovic'), (11.0, u'dowd waves play'), (11.0, u'dowd waves'), (11.0, u'box falling ivanovic'), (11.0, u'box falling'), (9.7563588976101681, u'didier drogba'), (7.0, u'final de'), (6.0, u'la final de'), (6.0, u'la final'), (4.0, u'el liverpool'), (4.0, u'#facup gol'), (3.5720762518516582, u'tunnel kick'), (3.5720762518516582, u'terry luis suarez'), (3.5720762518516582, u'terry luis'), (3.5720762518516582, u'suarez sharing banter'), (3.5720762518516582, u'suarez sharing'), (3.5720762518516582, u'sharing banter tunnel'), (3.5720762518516582, u'sharing banter'), (3.5720762518516582, u'luis suarez sharing'), (3.5720762518516582, u'luis suarez'), (3.5720762518516582, u'john terry luis'), (3.5720762518516582, u'john terry'), (3.5720762518516582, u'banter tunnel kick'), (3.5720762518516582, u'banter tunnel'), (3.5720762518516582, u'#facupfinal john terry'), (3.5720762518516582, u'#facupfinal john'), (3.0544217637105895, u'think chelsea see'), (3.0544217637105895, u'think chelsea'), (3.0544217637105895, u'see win'), (3.0544217637105895, u'chelsea see win'), (3.0544217637105895, u'chelsea see'), (3.0544217637105895, u'#facupfinal think chelsea'), (3.0, u'gol de'), (3.0, u'de drogba'), (3.0, u'andy carrol'), (2.867933428607055, u'#facupfinal think'), (2.3218166073778916, u'#facupfinal #cfcwembley'), (2.0, u'gol del'), (2.0, u'drogba chelsea'), (2.0, u'del liverpool'), (2.0, u'#facup gol del'), (1.563856363247955, u'chelsea liverpool'), (1.0, u'liverpool chelsea'), (1.0, u'great goal'), (1.0, u'goal drogba'), (1.0, u'goal carroll'), (1.0, u'carroll scores'), (1.0, u'#facupfinal andy carroll'), (1.0, u'#facupfinal andy'), (1.0, u'#facupfinal #lfc'), (1.0, u'#facupfinal #cfc'), (1.0, u'#facup chelsea'), (0.71150823612124858, u'#cfc #lfc'), (0.59061610914964124, u'fa cup')]
+fastcluster, average, cosine
+hclust cut threshold: 0.5
+n_clusters: 8
+Counter({1: 33, 2: 13, 4: 13, 3: 10, 5: 10, 6: 5, 7: 1, 8: 1})
+sorted cluster_score:
+[(1.1818181818181819, 1), (1.1000000000000001, 3), (1.0769230769230769, 2), (0.3572076251851658, 5), (0.23495552028542996, 4), (0, 6)]
+H.shape: (6, 50)
+hclust cut threshold: 1.0
+n_clusters: 6
+Counter({1: 1, 2: 1, 3: 1, 4: 1, 5: 1, 6: 1})
+sorted hcluster_score:
+[(1.1818181818181819, 1), (1.1000000000000001, 6), (1.0769230769230769, 4), (0.3572076251851658, 5), (0.23495552028542996, 3), (0, 2)]
+
+RECORD HISTORICO Didier Drogba es el PRIMER JUGADOR en la historia de la que marca en CUATRO finales//
+
+Stevie goes box falling Ivanovic ref Dowd waves play SL//
+
+taken pitch replaced Andy Carroll know wrong job//
+
+John Terry Luis Suarez sharing banter tunnel kick//
+
+think Chelsea see win//
+
