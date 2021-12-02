@@ -1,1 +1,2 @@
 # Twitter-Sub-Event
+Python based Machine Learning model which summarizes an event and detects all the sub-events from a corpus of tweets pertinent to that Event. Used various clustering algorithms like LSH, K-means and Hierarchical clustering to detect sub-events. Used a variant of tf-idf, to rank each tweet in a cluster and produced a summary by picking the top tweet from each cluster and sorting them based on their timestamps. I successfully detected the sub-events and produced a summary for FA-Cup Finals 2017.
